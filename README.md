@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [MyVaccineExperience.org](https://myvaccineexperience.herokuapp.com/)
 
-- 👨‍💻 All of my projects are available at [www.MattLanden.com](www.MattLanden.com)
+- 👨‍💻 All of my projects are available at [www.MattLanden.com](https://landen1221.github.io/personal-portfolio/)
 
 - 📫 How to reach me **mlanden1221@gmail.com**
 
