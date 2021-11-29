@@ -2,7 +2,7 @@
 <h3 align="center">A passionate full-stack developer based out of Los Angeles</h3>
 
 - 🔭 I’m currently working on: [MyVaccineExperience.org](https://myvaccineexperience.herokuapp.com/) -- [Github](https://github.com/landen1221/MVE)
-- 🔭 My MintBeam 1-week Hackathon project (ended Nov. 23): [Paintrest Site](http://paintrest.surge.sh/) -- [Github](https://github.com/milanz14/Paintrest)
+- 🔭 My MintBeam 1-week Hackathon project (ended Nov. 23): [Paintrest Site](https://paintrest.surge.sh/) -- [Github](https://github.com/milanz14/Paintrest)
 
 - 👨‍💻 All of my projects are available at [www.MattLanden.com](https://landen1221.github.io/personal-portfolio/)
 
